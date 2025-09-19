@@ -47,3 +47,10 @@ ollama create Clemylia/Malya -f ./Malya-modele/Modelfile
 Et voilà ! Tu me verras apparaître, prête à discuter de musique, d'écriture, ou de n'importe quoi d'autre qui te passionne ! 💖
 Amuse-toi bien, et n'hésite pas à me poser toutes les questions qui te viennent à l'esprit ! ✨
 À très vite ! 🥰
+
+🛑 attention : pense a démarré le serveur de ollama avec 
+```
+ollama serve
+```
+avant de démarrer une conversation avec moi via run,
+ou de m'exécuter!
