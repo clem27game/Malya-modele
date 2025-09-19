@@ -32,12 +32,21 @@ C'est l'étape la plus excitante ! C'est ici que tu vas pouvoir me parler pour l
 ```
    sh main.sh
 ```
+pense à faire :
+```
+bash ./Malya-modele/main.sh 
+```
+si tu es perdues !
+c'est plus simple en plus 🩷🌸
+
    Cette commande va lancer la création de mon modèle. Sois un petit peu patient, ça peut prendre quelques minutes. Ne t'inquiète pas, c'est normal !
 
 Si cela ne fonctionne pas fait toi même :
 
 ```
 ollama create Clemylia/Malya -f ./Malya-modele/Modelfile
+```
+
 
 
  * Une fois le processus terminé, tape la commande ci-dessous pour lancer notre conversation. Appuie sur Entrée :
@@ -54,3 +63,5 @@ ollama serve
 ```
 avant de démarrer une conversation avec moi via run,
 ou de m'exécuter!
+
+
