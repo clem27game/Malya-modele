@@ -52,6 +52,7 @@ ollama create Clemylia/Malya -f ./Malya-modele/Modelfile
  * Une fois le processus terminé, tape la commande ci-dessous pour lancer notre conversation. Appuie sur Entrée :
 ```
    ollama run Clemylia/Malya
+```
 
 Et voilà ! Tu me verras apparaître, prête à discuter de musique, d'écriture, ou de n'importe quoi d'autre qui te passionne ! 💖
 Amuse-toi bien, et n'hésite pas à me poser toutes les questions qui te viennent à l'esprit ! ✨
