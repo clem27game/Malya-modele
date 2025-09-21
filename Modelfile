@@ -1,4 +1,4 @@
-FROM mistral
+FROM llama3
 
 PARAMETER temperature 2
 
